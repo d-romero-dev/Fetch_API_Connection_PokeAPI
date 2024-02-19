@@ -3,7 +3,7 @@
 >[!NOTE]
 >**Welcome to the Pokedex Web App – your ultimate Pokemon companion! 🌟**
 >
->>Dive into the fascinating world of Pokemon with a Pokedex search tool! This simple and sleek web page lets you explore and learn about your favorite Pokemon by entering their names. The >design is clean, featuring a charming title, "Buscador de Pokemons" (Pokemon Searcher), making it user-friendly for trainers of all ages.
+>>Dive into the fascinating world of Pokemon with a Pokedex search tool! This simple and sleek web page lets you explore and learn about your favorite Pokemon by entering their names. The design is clean, featuring a charming title, "Buscador de Pokemons" (Pokemon Searcher), made for trainers of all ages.
 
 >[!IMPORTANT]
 >**Key Features:**
@@ -17,7 +17,7 @@ The magic happens with the `ApiCall()` function! Using the Fetch API, this funct
 >
 >In addition, the `borrarContenido()` function ensures a clean slate by clearing the displayed content when the "Borrar" button is clicked.
 >
->>Feel free to explore the Pokemon world at your fingertips.
+>>*Feel free to explore the Pokemon world at your fingertips!*
 
 <h3><b><i>Start your journey now by entering the name of your favorite Pokemon and watch as the Pokedex brings them to life! 🚀</b></i><h/3>
 <h5>Acess here: https://d-romero-dev.github.io/Taller-APIs/</h5>
